@@ -3,6 +3,7 @@
 🎓 **BS Computer Science Undergraduate Student**  
 💻 **Tech Stack:** Python | C++ | HTML/CSS | MS Access | SQL  
 🏏 **Favorite Projects:**  
+- **Restaurant Ordering System:** A digital ordering system for a restaurant. Made by a group of students as their Semester Project for Object Oriented Programming Course. [![Github](https://img.shields.io/badge/Github-purple?logo=github)](https://github.com/UmerDhedhi11/OOP-Project-2025)
 - **Cricket Strike:** A fun and interactive simulation of cricket. Made by a group of students as a university project for Prgramming Fundamentals Course at FAST NUCES Karachi [![Github](https://img.shields.io/badge/Github-purple?logo=github)](https://github.com/Rayyan-2704/Cricket-Strike)
 - **Database Management System:** Efficient, user-friendly management of complex data.
 
