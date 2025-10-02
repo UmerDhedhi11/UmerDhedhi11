@@ -3,7 +3,7 @@
 🎓 **BS Computer Science Undergraduate Student**  
 💻 **Tech Stack:** Python | C++ | HTML/CSS | MS Access | SQL  
 🏏 **Favorite Projects:**  
-- **Cricket Game:** A fun and interactive simulation of cricket.
+- **Cricket Strike:** A fun and interactive simulation of cricket.
 - **Database Management System:** Efficient, user-friendly management of complex data.
 
 ---
