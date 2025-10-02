@@ -3,7 +3,7 @@
 🎓 **BS Computer Science Undergraduate Student**  
 💻 **Tech Stack:** Python | C++ | HTML/CSS | MS Access | SQL  
 🏏 **Favorite Projects:**  
-- **Cricket Strike:** A fun and interactive simulation of cricket.
+- **Cricket Strike:** A fun and interactive simulation of cricket. [![Github](https://img.shields.io/badge/Github-purple?logo=github)](https://github.com/Rayyan-2704/Cricket-Strike)
 - **Database Management System:** Efficient, user-friendly management of complex data.
 
 ---
